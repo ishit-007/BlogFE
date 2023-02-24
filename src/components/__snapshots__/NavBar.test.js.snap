@@ -1,0 +1,31 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`NavBar should render the NavBar component 1`] = `
+<header>
+  <div
+    className="headings"
+  >
+    <h3>
+      The Artifact
+    </h3>
+    <h4>
+      <em>
+        Culture & Art Blog
+      </em>
+    </h4>
+  </div>
+  <nav>
+    <ul>
+      <li>
+        Blog
+      </li>
+      <li>
+        About
+      </li>
+      <li>
+        Contact
+      </li>
+    </ul>
+  </nav>
+</header>
+`;

@@ -1,0 +1,12 @@
+main{
+  flex:1
+}
+.cards{
+  width:70%;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 4%;
+  margin-left: 16%;
+  margin-right: 12%;
+}
+

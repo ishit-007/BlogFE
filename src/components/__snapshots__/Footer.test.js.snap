@@ -1,0 +1,18 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Footer should render the Footer component 1`] = `
+<div>
+  <footer>
+    <div
+      className="copyright"
+    >
+      ©
+    </div>
+    <div
+      className="footerText"
+    >
+      artifact.com 2019
+    </div>
+  </footer>
+</div>
+`;

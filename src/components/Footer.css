@@ -1,0 +1,16 @@
+footer {
+  flex:none;
+  display: flex;
+  color: white;
+  background-color: black;
+  width: 100%;
+}
+.copyright {
+  margin-left: 7rem;
+  padding-top: 1.5rem;
+  padding-bottom: 1.5rem;
+}
+.footerText {
+  padding-top: 1.5rem;
+  padding-bottom: 1.5rem;
+}

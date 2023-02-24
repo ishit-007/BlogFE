@@ -1,0 +1,30 @@
+header{
+  background-color: black;
+  color: white;
+  flex:none;
+}
+
+.headings{
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 1rem;
+  margin-left: 10%;
+  padding-top: 2rem;
+}
+nav ul{
+  list-style: none;
+  display: flex;
+  justify-content: flex-end;
+  padding-bottom: 1rem;
+}
+nav li{
+  padding-right: 10rem;
+}
+
+@media screen and (max-width:600px){
+  nav li{
+      padding-right: 5rem;
+  }
+}
